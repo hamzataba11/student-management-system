@@ -1,1 +1,2 @@
-# Hamza-Dev
+A student management system developed in C that allows users to add and display student records, with unique ID validation. Built to practice structs, arrays, functions, and fundamental programming concepts.
+نظام لإدارة الطلاب تم تطويره باستخدام لغة C، يتيح للمستخدمين إضافة سجلات الطلاب وعرضها، مع التحقق من عدم تكرار أرقام الطلاب (ID). تم بناء المشروع للتدرب على الهياكل (Structs)، والمصفوفات (Arrays)، والدوال (Functions)، والمفاهيم الأساسية للبرمجة.
